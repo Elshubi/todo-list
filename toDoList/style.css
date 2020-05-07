@@ -1,0 +1,65 @@
+
+.headcontainer{
+        background-image: url('./img/Background.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 7em;
+        width: 50%;
+        margin: 1em;
+        margin-top: 0px;
+        text-align: center;
+        color: sandybrown;
+        position: relative;
+        left: 25%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 2em;
+}
+
+.input{
+    position: relative;
+    left: 28%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    width: 50%; 
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.newItemText .addItem{
+    font-size: 2em;
+    color: sandybrown;
+    height: 2em;
+}
+
+h4{
+
+    position: relative;
+    left: 28%;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    color: slategray;
+}
+
+
+
+
+
+
+
+
+
+p{
+    background-color: aqua;
+    width: 20%;
+    font-size: 150%;
+    margin: 3px;
+}
+
+p:hover {
+    background-color: red;
+}
+
